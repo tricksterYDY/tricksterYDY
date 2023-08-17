@@ -3,6 +3,7 @@
   git checkout <브랜치이름>
 
 (2) 열심히 코딩한다.
+
 (3) 버전을 기록한다. (commit)
   git add .
   git commit -m '  '
@@ -12,3 +13,18 @@
   
 (5) GitHub에서 Pull Request를 생성한다.
 (6) 코드 리뷰 등... 협업 룰에 따라서 진행하고 다 완료되면 merge가 GitHub에서 된다.
+
+-- fork
+1. fork
+2. clone in my repo
+  git clone <url> in my local
+  
+3. push in my repo
+  git add
+  git commit -m '  '
+  git push origin <master|main>
+  
+4. Pull Request
+  my repo -> some's repo
+
+5. What was it?
