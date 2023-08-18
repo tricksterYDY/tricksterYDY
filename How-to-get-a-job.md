@@ -7,7 +7,6 @@
 = 내가 공부할 것 = 준비할 것
 
 
-![alt](./img/the-most-important-thing.png)
 
 ## 요즘 자소서는...
 ### 1. Cover Letter
@@ -15,8 +14,7 @@
 
 ### 3. CV(경력기술서) 디테일 -> 3 ~ 10 Page
 
-### 4. Portflio( A group of proje
-ct)
+### 4. Portflio( A group of project)
 
 ## 자주 실수하는 자기소개서
 
